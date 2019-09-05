@@ -1,0 +1,14 @@
+[
+  {
+    "repository"  : "asadkhilji/android_kernel_lge_hammerhead",
+    "target_path" : "kernel/lge/hammerhead",
+    "branch"      : "lineage-17.0",
+    "remote"      : "github"
+  },
+  {
+    "repository"  : "asadkhilji/android_vendor_lge",
+    "target_path" : "vendor/lge",
+    "branch"      : "lineage-17.0-adreno",
+    "remote"      : "github"
+  }
+]
